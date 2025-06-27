@@ -16,17 +16,6 @@
 
 ---
 
-## 🛠️ เทคโนโลยีที่ใช้บ่อย
-
-- 💻 **ภาษา:** JavaScript, Python, TypeScript  
-- 🌐 **Frontend:** HTML, CSS, React, Tailwind CSS  
-- 🔧 **Backend:** Node.js, Express.js, Firebase, MongoDB  
-- ⚙️ **เครื่องมือ:** Git, GitHub, Docker, Postman, VS Code  
-- ☁️ **Cloud:** Vercel, Netlify, Firebase Hosting  
-
----
-
-
 
 
 
